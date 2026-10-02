@@ -189,9 +189,7 @@ button { font: inherit; border: none; background: none; cursor: pointer; color: 
 }
 
 .frame-content {
-    position: relative;
     background: rgba(255, 252, 245, 0.55);
-    backdrop-filter: blur(2px);
     border-radius: 4px;
     padding: 52px 56px;
     max-height: calc(100vh - 200px);
